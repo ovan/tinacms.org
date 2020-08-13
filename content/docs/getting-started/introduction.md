@@ -3,9 +3,9 @@ title: Introductory Tutorial
 id: introduction
 prev: null
 next: /docs/getting-started/cms-set-up
+last_edited: '2020-08-13T17:17:27.251Z'
 ---
-
-Tina is a toolkit for building content management systems. This tutorial will walk you through Tina's fundamental building blocks by setting up editing on a basic `create-react-app` [demo](https://github.com/tinacms/tina-intro-tutorial). **To get the most from Tina, you should have a good working knowledge of JavaScript and React**.
+Tina is a toolkit for building content management systems. This tutorial will walk you through Tina's fundamental building blocks by setting up editing on a basic `create-react-app` [demo](https://github.com/tinacms/tina-intro-tutorial). **To get the most from Tina, you should have a good working knowledge of JavaScript and React**.![](cosmo1.jpeg)
 
 ## Why _create-react-app_?
 
@@ -39,4 +39,4 @@ yarn start
 
 ![tina-cra-tutorial-start](/img/getting-started/tina-tutorial-step1.png)
 
-> If at any point you feel lost or confused during this tutorial, checkout the [Tina Community Forum](https://community.tinacms.org/) to get answers, help, and llama-humor.
+> If at any point you feel lost or confused during this tutorial, checkout the [Tina Community Forum](https://community.tinacms.org/) to get answers, help, and llama-humor.![](cosmo1.jpeg)![](cosmo1.jpeg)
